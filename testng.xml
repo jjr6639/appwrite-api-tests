@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Appwrite API Test Suite">
+  <test name="Document CRUD Tests">
+    <classes>
+      <class name="com.gabriel.AppwriteDocumentTest"/>
+    </classes>
+  </test>
+</suite>

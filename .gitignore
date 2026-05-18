@@ -1,0 +1,5 @@
+target/
+*.class
+allure-results/
+allure-report/
+.env
