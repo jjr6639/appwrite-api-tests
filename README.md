@@ -208,21 +208,7 @@ This project was created to demonstrate:
 
 ---
 
-## Future Improvements
 
-Potential enhancements include:
-
-- Environment-based configuration
-- Update document test cases
-- Delete document test cases
-- Data-driven testing
-- Request/response logging
-- GitHub Actions CI/CD integration
-- API schema validation
-- Parallel test execution
-- Test data cleanup utilities
-
----
 
 ## Author
 
